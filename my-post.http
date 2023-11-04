@@ -1,0 +1,9 @@
+POST http://localhost:8080/notes
+Content-Type: application/json
+
+{
+  "title": "from intellij http client",
+  "contents": "Just some note contents"
+}
+
+###
